@@ -1,2 +1,2 @@
 # Hello-world
-My fist github repo
+My first github repo
